@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "330407353697",
+    "firebase_url": "https://videoquick-ec6ef.firebaseio.com",
+    "project_id": "videoquick-ec6ef",
+    "storage_bucket": "videoquick-ec6ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330407353697:android:8a4b1eb4535b48ab1cb920",
+        "android_client_info": {
+          "package_name": "com.twilio.voice.quickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330407353697-sc8dr766chc8apnejol704v4dq1apr32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twilio.voice.quickstart",
+            "certificate_hash": "cc67111efdd1cd510afeea645ee290efa3170816"
+          }
+        },
+        {
+          "client_id": "330407353697-kv9l2ll4t3fughonse6mijjkp2998ou9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIYZ5faIeIzXcKvuQvUSaZVdlIhWdyPnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330407353697-kv9l2ll4t3fughonse6mijjkp2998ou9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
